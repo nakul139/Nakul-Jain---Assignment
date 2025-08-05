@@ -66,8 +66,6 @@ npm run dev
 
 App will run at: http://localhost:5173
 
-✅ Live Demo
-Coming soon (Deploy to Netlify + Render)
 
 🤝 Connect with Me
 👤 Nakul Jain
