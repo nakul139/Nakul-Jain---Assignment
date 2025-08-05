@@ -26,9 +26,9 @@ A modern ReactJS application that allows users to **log in with Google**, **scra
 ## 📂 Folder Structure
 
 react-scraper-app/
-├── Frontend/ → React + Tailwind frontend
-├── server/ → Express.js backend + Python scraper
-│ └── scraper.py → Uses BeautifulSoup to scrape data
+├── Frontend/       # React + Tailwind frontend
+├── server/         # Express.js backend and Python scraper
+│   └── scraper.py  # Uses BeautifulSoup to scrape data
 ├── README.md
 
 ---
